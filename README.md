@@ -10,7 +10,11 @@ Este proyecto es una práctica experimental desarrollada con React, TypeScript, 
 ## Instalación
 
 1. **Clona este repositorio** o descarga el código fuente.
-2. **Abre una terminal** en la carpeta del proyecto.
+
+ ```
+   git clone https://github.com/Samuelbriones/form_practica
+   ```
+2. **Abre una visual estudio code o un editor de codigo** en la carpeta del proyecto.
 3. **Instala las dependencias** ejecutando:
 
    ```
